@@ -28,4 +28,12 @@ pip install meilisearch
 
 - 마크다운
 pip install tabulate
+
+- 웹 backend, frontend 개발
+pip install streamlit
+```
+
+# 실행 방법
+```
+streamlit run main_app.py
 ```
