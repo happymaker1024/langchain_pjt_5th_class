@@ -21,3 +21,4 @@ with tab1:
 # LLM이 만든 투자 보고서 출력
 with tab2:
     st.header(f"{company_selected} AI 투자보고서")
+    # AI 투자 보고서 출력

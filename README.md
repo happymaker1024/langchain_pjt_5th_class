@@ -33,7 +33,14 @@ pip install tabulate
 pip install streamlit
 ```
 
-# 실행 방법
+# 앱 실행 방법
 ```
 streamlit run main_app.py
+```
+
+# meilisearch 실행 방법
+```
+./meilisearch --master-key="your API_KEY"
+- https://www.meilisearch.com/docs/learn/self_hosted/getting_started_with_self_hosted_meilisearch
+
 ```
